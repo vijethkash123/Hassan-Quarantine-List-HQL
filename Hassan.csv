@@ -1,0 +1,123 @@
+S.NO,Date of Arrival,Date until Quarantined,Port of Origin of journey,Port of Final Destination,House No,Street/ Village,Tehsil,District/ City,State,PIN,Final District/ City
+1,22-Mar-20,05-Apr-20,Dubai,Bangalore,-,C.R Pattna,"13, Rood",Hassan,Karnataka,573116,Hassan
+2,22-Mar-20,05-Apr-20,Dubai,Bangalore,"31/1, 3rd Cross",Halasulige,Sakaleshpur,Hasan,Karnataka,unknown,Hasan
+3,22-Mar-20,05-Apr-20,Dubai,Bangalore ,#47,Dinduguru Village ,Dinduguru,Hassan,Karnataka,573116,Hassan
+4,22-Mar-20,05-Apr-20,Dubai,Bangalore,"31/1, 3rd Cross",Halasulige,Sakaleshpur,Hasan,Karnataka,unknown,Hasan
+5,21-Mar-20,04-Apr-20,"Batam,Indonasia","Bengaluru,India",No 03,Koratikere Arkalgud,-,Hassan,Karnataka,573201,Hassan
+6,21-Mar-20,04-Apr-20,Bahrain,Bangalore,Behind Prathibha College,Arsikere,Na,Hassan,Karnataka,573103,Hasan
+7,21-Mar-20,04-Apr-20,Tribunan International Airpot,Kempegowda International Airpot,#225,Kuvampunagar,Channarayapattna,Hassan,Karnataka,573116,Hassan
+8,21-Mar-20,04-Apr-20,Dubai,Bangalore,KRISHNA KRUPA BEHIND HOTEL SANTHOSH,Thaniruhalla,Hassan,Hassan,Karnataka,573201,Hassan
+9,21-Mar-20,04-Apr-20,Dubai,Bengaluru,,Gopalahalli,,CR Dattana,Karnataka,573116,Hassan
+10,21-Mar-20,04-Apr-20,Dubai,Bangalore,19/345,Belur Road,Hassan,Hassan,Karnataka,573201,Hassan
+11,20-Mar-20,03-Apr-20,Dubai,Bangalore,HIG25,Kuvempu Nagar,-,Hasan,Karnatka,573201,Hassan
+12,20-Mar-20,03-Apr-20,Dubai,Bangalore,HIG25,Kuvempu Nagar,-,Hasan,Karnatka,573201,Hassan
+13,20-Mar-20,03-Apr-20,Dubai,Bangalore,HIG25,Kuvempu Nagar,-,Hasan,Karnatka,573201,Hassan
+14,20-Mar-20,03-Apr-20,Doha,Bangalore,598/A,Northen,-,Hassan,Karnataka,573201,Hassan
+15,20-Mar-20,03-Apr-20,Dubai,Bangalore,-,Hassan,-,Hassan,Karnataka,573201,Hassan
+16,20-Mar-20,03-Apr-20,Uae,Bangalore,102,Bayagadanin,-,Hassan,Karnataka,573123,Hassan
+17,20-Mar-20,03-Apr-20,Dubai,Bangalore Int Airport,-,"Hospet Street, Arehalli",Belur,Hassan,Karnataka,573101,Hassan
+18,20-Mar-20,03-Apr-20,"Dubai, Uae",Banaglore,-,#24 ,Madalagere,Cr Gate,Hassan,unknown,Hassan
+19,19-Mar-20,02-Apr-20,Dubai,Bangalore,-,Nambihalli,-,Hassan,Karnataka,unknown,Hassan
+20,19-Mar-20,02-Apr-20,Dubai,Bangalore,Kadlur Kuppal,Hoskote,Hassan,Hassan,Karnataka,573129,Hassan
+21,19-Mar-20,02-Apr-20,Dubai,Bangalore,4,Gayathri Ext. Cr Patna,-,Hassan,Karnataka,573116,Hassan
+22,19-Mar-20,02-Apr-20,Alexandia,Bangalore,# 23 Vaddarahalli,-,Arakalgud,Hassan,Karnataka,573150,Hassan
+23,19-Mar-20,02-Apr-20,Abudhabi ,Bangalore ,-,Aluvalli,-,Hassan ,Karnataka ,573201,Hassan
+24,19-Mar-20,02-Apr-20,Abudhabi ,Bangalore ,-,Aluvalli ,Bhage Post ,Hassan ,Karnataka ,573201,Hassan
+25,19-Mar-20,02-Apr-20,Sydney ,Bangalore,235,Madalu Banavara Hassan,-,Hassan ,Karnataka,573117,Hassan
+26,19-Mar-20,02-Apr-20,Sydney ,Bangalore,235,Madalu Banavara Hassan,-,Hassan ,Karnataka,573117,Hassan
+27,19-Mar-20,02-Apr-20,Uae (Sharjah),Bengaluru,Sumuka Nulfa,Vinayaka Nagar,Kote Arlkalgud,Harsah Dist,Karnataka,573102,Hassan
+28,19-Mar-20,02-Apr-20,Sharjah,Bangalore,Sumuka Nibya,Vinayaga Nagar,"Kote, Arkalgud",Hassan,Karnataka,573102,Hassan
+29,19-Mar-20,02-Apr-20,Abu Dhabi,Bangalore,KR Puram,Hassan,Hassan,Hassan,Karnataka,unknown,Hassan
+30,19-Mar-20,02-Apr-20,Abu Dhabi,Bangalore,KR Puram,Hassan,Hassan,Hassan,Karnataka,unknown,Hassan
+31,18-Mar-20,01-Apr-20,Sharjah,Bangalore India,107,Bilal Masjid Road,Sakleshpur,Hassan,Karnataka,unknown,Hassan
+32,18-Mar-20,01-Apr-20,Sharjah,Bangalore India,107,Biall Masjid Road,Sakleshpur,Hassan,Karnataka,573134,Hassan
+33,18-Mar-20,01-Apr-20,Sharjah,Bangalore,107,Bilal Masjid Road,Sakleshpur,Hassan,Karnataka,573134,Hassan
+34,18-Mar-20,01-Apr-20,Sharjah,Bangalore,107,Bilal Masjid Road,Sakleshpur,Hassan,Karnataka,573134,Hassan
+35,18-Mar-20,01-Apr-20,Sharjah,Bangalore,107,Bilal Masjid Road,Sakleshpur,Hassan,Karnataka,573134,Hassan
+36,18-Mar-20,01-Apr-20,Abudhabi,Bangalore,53,Magadi,"Sakleshpus,",Hassan,-,5731994,Hassan
+37,18-Mar-20,01-Apr-20,Sharjah,Bangalore India,107,Bilal Masjid Road,Sakleshpur,Hassan,Karnataka,unknown,Hassan
+38,18-Mar-20,01-Apr-20,Frankfort,Bengaluru,Bairaweshwara,"Nilaya ,3Rd Cross",Vidyuth Nagar,Hassan,Karnataka,573201,Hassan
+39,18-Mar-20,01-Apr-20,Amsterdam,Bangalore,"67589, nanjundela complex, sanmukha nilya 2nd floor","Tanneruhalla, Hassan",-,Hassan,Hassan,573201,Hassan
+40,18-Mar-20,01-Apr-20,Frakfurt,"Bangalore, India",Bairaveshwara,"Nilaya,3Rd Cross",Hassan,Hassan,Karnataka,573201,Hassan
+41,18-Mar-20,01-Apr-20,Uae,Bangalore,-,-,-,Hassan,Karnataka,573201,Hassan
+42,18-Mar-20,01-Apr-20,Stuggart,Bangalore,596,1Oth Cross,Hassan,Hassan,Karnataka,573201,Hassan
+43,18-Mar-20,01-Apr-20,Uae,India,Jamia msjid road nawaithunadi,Hassan,-,Bengaluru,Karnataka,573201,Hassan
+44,18-Mar-20,01-Apr-20,Sharjah,Bangalore India,107,Biall Masjid Road,Sakleshpur,Hassan,Karnataka,573134,Hassan
+45,17-Mar-20,31-Mar-20,Dubai,Bangalore,-,Kalosirdo,-,Hassan,Karnataka,573116,Hassan
+46,17-Mar-20,31-Mar-20,Dubai ,Banglore,WARD-19,Hayath Nagar,Holenasipur,Hassan,Karnataka ,573211,Hassan
+47,17-Mar-20,31-Mar-20,U.A.E,Banglore,-,Kuvampunagar,Chanaraya Patna ,Hassan,Karnataka ,573116,Hassan
+48,17-Mar-20,31-Mar-20,U.A.E,Banglore,-,Kuvempu Nagar,Chanaraya Patna ,Hassan,Karnataka ,573116,Hassan
+49,16-Mar-20,30-Mar-20,Dubai,Mangalore,-,Ballupet,Sakaleshpur,Hassan,Karnataka,573214,Hassan
+50,16-Mar-20,30-Mar-20,Dubai,Mangalore(Ballupet),-,Ballupet,Sakaleshpur,Hassan,Karnataka,573214,Hassan
+51,16-Mar-20,30-Mar-20,Dxb,Mangalore,-,Ballupet,Sakaleshpur,Hassan,Karnataka,573214,Hassan
+52,16-Mar-20,30-Mar-20,Dubai,Mangalore,16,Belur,-,Hassan,Karnataka,573115,Hassan
+53,16-Mar-20,30-Mar-20,Dxe,Ixe,-,-,Sakaleshpur,Hasan,Karnataka,573134,Hassan
+54,16-Mar-20,30-Mar-20,Dubai,Mangalore,14-s/o H M Kumar,Madabolu -P,Alur-Taluk,Hassan,Karnataka,573201,Hassan
+55,16-Mar-20,30-Mar-20,Bahrain,Mangalore,NA,Jayanagara,Hasana,Hasana,Karnataka,573201,Hassan
+56,16-Mar-20,30-Mar-20,-,Ramania,#21,Hirisave,C R Patna,Hassan,Karnataka,573124,Hassan
+57,16-Mar-20,30-Mar-20,Manila,Bangalore,-,Samuddravalli,-,Hassan,Karnataka,573201,Hassan
+58,16-Mar-20,30-Mar-20,Manila,Bangalore,-,Cholenahally Village,"Adagar Port, Kasala Holi",Hassan,Karnataka,unknown,Hassan
+59,16-Mar-20,30-Mar-20,Bali,Bangalore,-,Banavara,-,Hassan,Karnataka,573112,Hassan
+60,16-Mar-20,30-Mar-20,Bali,Bangalore,-,Banavara,-,Hassan,Karnataka,573112,Hassan
+61,16-Mar-20,30-Mar-20,Manila,Bangalore,MIG 1516,8Th Main Road Khb Colony Channarayapatna,-,Hassan,Karnataka,573201,Hassan
+62,16-Mar-20,30-Mar-20,Manila,Bangalore,"Nyamanahalli, mavinakere",Nymanahalli,H N Pura,Hassan,Karnataka,573201,Hassan
+63,16-Mar-20,30-Mar-20,Abu Dhabi,Bangalore,shanthi nivasa ,Indranagara 5Th Cross,-,Hassan ,Karnataka,573201,Hassan
+64,16-Mar-20,30-Mar-20,Dubai,Bangaluru,-,-,Aaluur,Hasan,Karnataka,unknown,Hassan
+65,15-Mar-20,29-Mar-20,Dubai,Mangalore,NA,Anemhal,Na,Hassan,Karnataka,573134,Hassan
+66,15-Mar-20,29-Mar-20,Sharjah,Bangalore,"5A, Chkk",Masibi Beebi,Sashivaya,Hassan,Karnataka,573211,Hassan
+67,15-Mar-20,29-Mar-20,Dubai,Bangalore,-,Behind Ksrtc Bus Stand,Goruru,Hassan,Karnataka,573120,Hassan
+68,15-Mar-20,29-Mar-20,Kuala Lumpr ,"Bengaluru ,India",243,Oppo Dental College ,Vindyanagar ,Hassan ,Karnataka ,573201,Hassan
+69,15-Mar-20,29-Mar-20,Malaysia,Bangalore,-,Kyamanahalli,Kyamanahalli Post,Hasan District,Karnataka,573201,Hassan
+70,14-Mar-20,28-Mar-20,Norway,Bengaluru,45,Akkalawadi,Arakulgad,Hassan,Karnataka,573130,Hassan
+71,14-Mar-20,28-Mar-20,Lax,Bengaluru,2nd floor,Herigondanahalli,Arsikere,Hassan,Karnataka,573103,Hassan
+72,14-Mar-20,28-Mar-20,Baku,Bangalore,1952,4Th Cross ,Adarsh Nagar,Hassan,Karnataka,573201,Hassan
+73,14-Mar-20,28-Mar-20,London,Banglore,kabburahalli,Anna Nayakanahalli Post,Araarasikere Tq,Hassan,Karnataka,573122,Hassan
+74,13-Mar-20,27-Mar-20,Dubai,Bangalore,78,Gyrahall,Channarayapatna,Hassan,Karnataka,573116,Hassan
+75,13-Mar-20,27-Mar-20,Dxb,"Bangalore,India",101,Bhagathsingh Road,Jayanagara,Hassan,Karnataka,573201,Hassan
+76,13-Mar-20,27-Mar-20,Sharjah,Bangalore,srinivasam HM 23,Rakshanapuram,Hassan,Hassan,Karnataka,573201,Hassan
+77,13-Mar-20,27-Mar-20,Sharjah,Bangalore,Sri narashima 23,Rakshanapuram,Hassan,Hassan,Karnataka,573201,Hassan
+78,13-Mar-20,27-Mar-20,Singapore,Banglore,-,Devihalli,Seersi.,Hassan,Karnataka,573219,Hassan
+79,13-Mar-20,27-Mar-20,Stansted London,Bangalore,"TKK & Brok, 2nd cross ",Subhash Nagar,Arsikere,Hassan ,Karnataka,573103,Hassan
+80,13-Mar-20,27-Mar-20,Singapore,Banglore,977,4Th Cross,Hassan,Hassan,Karnataka,573201,Hassan
+81,13-Mar-20,27-Mar-20,Malaysia,Banglore,Sosalupura koppalu,"Khasaba (H), Nalluru",Channarayapatna (T),Hassan,Karnataka,573116,Hassan
+82,13-Mar-20,27-Mar-20,Malaysia,Banglore Airport,#85,Hirehally,Belur,Hassan,Karnataka,573125,Hassan
+83,13-Mar-20,27-Mar-20,Phx Az Usa,Bengaluru,-,"Ramkrishnalayout, Near Gandhi Circle",-,Chamarayapatna,Karnataka,573116,Hassan
+84,12-Mar-20,26-Mar-20,Dubai,Bangalore,-,Sbm Colony B.Katihallv Hassan,Hassan,Hassan,Karnataka,573201,Hassan
+85,12-Mar-20,26-Mar-20,Dubai,Bangalore,-,Sbm Colony B.Katihally Hassan,Hassan,Hassan,Karnataka,573201,Hassan
+86,12-Mar-20,26-Mar-20,Barcelona Spain,Bangalure,2738,Penzzon Mohalla,-,Hassan,Karnataka,573201,Hassan
+87,12-Mar-20,26-Mar-20,London ,Bangalore,#41/A,7Thcross Kr Puram,Hussan,Hussan,Karnataka,573201,Hassan
+88,12-Mar-20,26-Mar-20,Delhi,Bangalore ,House 05,Adarsha Nagar Channaray Patna ,Channaray Patna,Hassan,Karnataka,573116,Hassan
+89,12-Mar-20,26-Mar-20,Toronto,Bangalore,"F. 205, BALAJI HILL TOP",4Th Main Cka,Bsk- 3,Bangalore,Karnataka,573201,Hassan
+90,12-Mar-20,26-Mar-20,Kuwait,Bangalore,-,Rakshanapuram,Hassan,Hassan,Karnataka,573201,Hassan
+91,12-Mar-20,26-Mar-20,Dubai,Bangalore,#774,-,-,Hassan,Karnataka,573116,Hassan
+92,12-Mar-20,26-Mar-20,Delhi,Bangalore ,House 05,Adarsha Nagar Channaray Patna ,Channaray Patna,Hassan,Karnataka,573116,Hassan
+93,12-Mar-20,26-Mar-20,Colombo,Bangalore,226,Acngi,                 -,Hssnn Sakesapr,          -,573134,Hassan
+94,12-Mar-20,26-Mar-20,Dubai,Mangalore,-,Cheekanalay,Belur(P),Hassan,Karnataka,unknown,Hassan
+95,11-Mar-20,25-Mar-20,Dfw Via Doha,Bangalore,#Maruthy Krupa,Vdyagiri,-,Hassan,Karnataka,573201,Hassan
+96,11-Mar-20,25-Mar-20,Dubai,Bangalore,srilakshridari,B.Katihalli,Ors Central Schad,Hassan,Karnataka,573201,Hassan
+97,11-Mar-20,25-Mar-20,Colombo,Bangalore,Wasana,"Near Ring Road, Udayagiri",-,Hassan,Karnaaka,573201,Hassan
+98,11-Mar-20,25-Mar-20,Indonesia,Bangalore,92,3Rd Main Road,Hemavathi Nagar,Hassan ,Karnataka,unknown,Hassan
+99,11-Mar-20,25-Mar-20,Indonesia,Bangalore,92,3Rd Main Road,Hemavathi Nagar,Hassan ,Karnataka,579201,Hassan
+100,11-Mar-20,25-Mar-20,Indonesia,Bangalore,92,3Rd Main Road,Hemavathi Nagar,Hassan ,Karnataka,579201,Hassan
+101,11-Mar-20,25-Mar-20,Indonesia,Bangalore,92,3Rd Main Road,Hemavathi Nagar,Hassan ,Karnataka,579201,Hassan
+102,11-Mar-20,25-Mar-20,Dubai,Bangalore,"1064, 09th Cross",Sampige Road,K R Puram,Hassan,Karnataka,573201,Hassan
+103,11-Mar-20,25-Mar-20,Qatar,Bangalore,-,Baage,Sakleshpura,Hassan,Karnataka,573134,Hassan
+104,11-Mar-20,25-Mar-20,"Riyadh,Ksa","Bangalore, India",42,Vatehali Village,Sakleshpur,Hassan,Karnataka,573101,Hassan
+105,11-Mar-20,25-Mar-20,Riyadh,Bangalore,# 42,Vatehalli Village,Sakleshpur,Hassan,Karnataka,573101,Hassan
+106,11-Mar-20,25-Mar-20,Jeddah,Bangalore,-,Sunni Chowk ,Hultyor Road,-,Karnataka,573103,Hassan
+107,10-Mar-20,24-Mar-20,Muscat,Mangalore,AL.237,-,Hagare,Hassan,Karnataka,573216,Hassan
+108,10-Mar-20,24-Mar-20,Dubai,Mangalore India,149 Achangi,Sakaleshpura,-,Hassan,Karnataka,573134,Hassan
+109,10-Mar-20,24-Mar-20,LONDON UK ,BENGALURU,"8/93, RASHMI ","SHANKARACHARY RD, 2ND CROSS ",VIDYARANYAPURA ,HASSAN ,KARNATAKA,573201,Hassan
+110,10-Mar-20,24-Mar-20,-,bangalore,"119, Roshan nagar ",channarayapattna,hasan,hassan,Karnataka,unknown,Hassan
+111,10-Mar-20,24-Mar-20,jeddah,bangalore,"119, Roshan nagar ",channarayapattna,hasan,hassan,Karnataka,unknown,Hassan
+112,10-Mar-20,24-Mar-20,jeddah,bangalore,"119, Roshan nagar ",channarayapattna,hasan,hassan,Karnataka,unknown,Hassan
+113,10-Mar-20,24-Mar-20,jeddah,bangalore,766,H D devogowahyar,hasan,hassan,Karnataka,573201,Hassan
+114,10-Mar-20,24-Mar-20,Kuwait,Bengalluru,42,Hongadahalla,Sakleshpura,Hassan,Karnataka,573123,Hassan
+115,10-Mar-20,24-Mar-20,London,Bengaluru,8/93 Rashmi,"2nd Cross, Shankarachary Road, Vidya nagar",Hassan,Hassan,Karnataka,573201,Hassan
+116,10-Mar-20,24-Mar-20,SEATTLE,BENGALURU,1483,PARK ROAD,-,HASSAN,KARNATAKA ,573201,Hassan
+117,10-Mar-20,24-Mar-20,DUBAI,BANGALORE,381,Pension Mohal Hassan,Hassan ,-,karnataka,573201,Hassan
+118,10-Mar-20,24-Mar-20,Dubai,Bangalore,"Alpha Cottage, ","Bikkodu , Belur",Hassan district,-,Karnataka,573215,Hassan
+119,10-Mar-20,24-Mar-20,Jeddah,Bengaluru,-,Bagur Road,"Ganesh Nagar, Channarayapattana",Hassan,Karnataka,573116,Hassan
+120,10-Mar-20,24-Mar-20,Jeddah,Bengaluru,-,Bagur Road,"Ganesh Nagar, Channarayapattana",Hassan,Karnataka,573116,Hassan
+121,10-Mar-20,24-Mar-20,Jeddah,Bengaluru,Begur Road,Gooranahalli,Channarayapattana,Hassan,Karnataka,573116,Hassan
+122,10-Mar-20,24-Mar-20,Jeddah,Bengaluru,Hassan,-,Hassan,Hassan,Karnataka,unknown,Hassan
