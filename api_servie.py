@@ -6,6 +6,8 @@ import pandas as pd
 from sqlalchemy import create_engine
 import matplotlib.pyplot as plt
 import numpy as np
+from flask import send_file
+
 
 class api_servie:
     def data_json(self,res):
@@ -62,11 +64,16 @@ class api_servie:
         # plt.show()
         index = np.arange(len(pins))
         plt.bar(index, pincount)
-        plt.xlabel('PIN', fontsize=9)
-        plt.ylabel('Quarantined number', fontsize=9)
-        plt.xticks(index, pins, fontsize=8, rotation=30)
+        plt.xlabel('PIN', fontsize=5)
+        plt.ylabel('Quarantined Count', fontsize=9)
+        plt.xticks(index, pins, fontsize=6, rotation=30)
         plt.title('Quarantine List Hassan')
-        plt.show()
+        plt.savefig('plot.png',dpi=400)
+        # plt.show()
+        filename = 'plot.png'
+        return send_file(filename, mimetype='image/png')
+
+
 
 
 if __name__ == "__main__":

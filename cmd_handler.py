@@ -12,6 +12,8 @@ class cmd_handler:
             return aObj.get_data(pin)
         elif cmd_id== 'get_pins':
             return aObj.get_pins()
+        elif cmd_id=='get_plot':
+            return aObj.plotter()
         else:
             return {}
 
